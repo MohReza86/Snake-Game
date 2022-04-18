@@ -1,4 +1,4 @@
-@uthor: Mohammadreza Baghery
+''' @ author: Mohammadreza Baghery '''
 
 import pygame
 import time
